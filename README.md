@@ -97,5 +97,7 @@ version 2 or later (GPL-2.0-or-later).
 
 See the LICENSE file for the full license text.
 
+The corresponding source code for this version is available in this repository.
+
 The source code corresponding to this build is included in:
 ai5-sdl2-yuno-latin-patch.zip
